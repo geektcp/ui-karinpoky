@@ -13,11 +13,10 @@ tyarn
 
 ```
 
-###
+### start
 ```
 tyarn start
 or
 npm run start
-
 
 ```
